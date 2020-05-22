@@ -1,5 +1,5 @@
 # Combination-Lock-Opener
-A repository to store code and other files associated with the Combination Lock Opener project. 
+A repository for the Combination Lock Opener project. 
 
 **Repository notes:**
 - This program was developed using the PlatformIO IDE
